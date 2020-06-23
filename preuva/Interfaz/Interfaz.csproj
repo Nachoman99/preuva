@@ -72,6 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Puto_el_que_lo_lea.cs" />
     <Compile Include="Siiiuuuuu.aspx.cs">
       <DependentUpon>Siiiuuuuu.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
